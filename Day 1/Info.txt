@@ -1,0 +1,38 @@
+IPL Application 
+year 
+teams []
+Score table 
+matches
+
+
+Track Record 
+
+Class Team 
+TeamName 
+TeamState
+Players []
+
+Class Player
+Player Name 
+Player Age
+player State
+Batting Performance 
+Bowling performance 
+
+ 
+
+Class Batting Performance 
+runs 
+Strike Rate 
+Average 
+
+
+Class Bowling performance 
+bowling type 
+wickets 
+economy 
+
+
+Leaderboard 
+Orange Cap Holder 
+purple cap Holder 
