@@ -1,0 +1,15 @@
+find the number of days according to month |
+check the leap year
+
+
+you have a list of names 
+Case sensitivity 
+1) Display names starting with specific character
+2) Search of a particular name
+3) replace the name 
+4) find any palindrome names in the list
+5) Display all the names in ascending order
+6) Append new Friend in the list
+7) Find the names whose starting letter is not in capital letters and replace with In Capital
+8) Find the name whose name is having minimum letters
+9) find the name whose name is having maximum letters   

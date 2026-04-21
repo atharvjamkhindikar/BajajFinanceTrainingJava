@@ -1,0 +1,20 @@
+public class Numbers 
+{
+  public static void main(int [] args)
+{
+  int x=10;
+i int y=20; 
+ System.out.println("Before Swapping : x: "+x +"y"+y); 
+
+public void swap(int a , int b)
+    {
+     int temp;   
+     temp=x;
+     y=x;
+     y=temp; 
+
+   System.out.println("After Swapping  x :"+x +"y :"+y);   
+}
+
+} 
+}

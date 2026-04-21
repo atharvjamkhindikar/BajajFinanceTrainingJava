@@ -1,0 +1,44 @@
+select distinct salary from employee order by salary desc limit 1 offset 1;
+
+ 1,1 ,2,3,5,8 
+
+
+public boolean ispalindrome(String s )
+{
+       
+  
+  
+}
+  AMA   plaindrome strings 
+  AHA
+  
+
+  {  id : 01,
+     name : "Atharv",
+     depratment : "CSE",
+     sal : 5000 ,
+  }
+
+
+  customer table             
+  loan table  |    
+ cust_id || cust_name ||  
+
+ Bank table | Accounttbale  
+
+ Index   
+
+ email  , WhatsApp , SMS 
+ 
+ Rollback :
+
+ 
+ 
+ 
+     
+
+  
+    
+
+  
+ 
